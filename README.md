@@ -1,0 +1,1 @@
+#### run application with `environment CONFIG_PATH=path/to/file.yaml` or flag `--config="path/to/file.yaml"`

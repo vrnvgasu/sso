@@ -1,0 +1,7 @@
+env: "local" # dev, prod
+storage_path: "./storage/sso.db" # путь к бд (sqlite)
+token_ttl: 1h # время жизни токена
+grpc:
+  port: 44044
+  timeout: 10h # на проде конечно значение типа 5s
+
